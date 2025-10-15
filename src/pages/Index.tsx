@@ -247,7 +247,7 @@ export default function Index() {
               <div className="space-y-2 text-gray-400">
                 <div className="flex items-center gap-2">
                   <Icon name="Phone" size={16} />
-                  <span>+7 (999) 123-45-67</span>
+                  <span>+7 (921) 733-22-53</span>
                 </div>
                 <div className="flex items-center gap-2">
                   <Icon name="Mail" size={16} />
